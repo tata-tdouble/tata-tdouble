@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tata-tdouble from alien world.
-- 👀 I’m interested in, java js and python.
+- 👋 Hi, I’m double-t from Wakanda.
+- 👀 I’m interested in, kotin java js and python.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 Whatsapp +237698973258
