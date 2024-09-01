@@ -1,7 +1,7 @@
-- 👋 Hi, I’m double-t from Wakanda.
-- 👀 I’m interested in, kotin java js and python.
-- 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on anything.
+- 👋 Hi, Welcome tp my repo. I’m Tata from Cameroon.
+- 👀 I’m interested in, kotlin java js and python projects.
+- 🌱 I’m currently working on a Trading bot and Dating App.
+- 💞️ I’m looking to collaborate with anyone.
 - 📫 Whatsapp +237698973258
 
 <!---
