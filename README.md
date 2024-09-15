@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome tp my repo. I’m Tata from Cameroon.
+- 👋 Hi, Welcome to my repo. I’m Tata from Cameroon.
 - 👀 I’m interested in, kotlin java js and python projects.
 - 🌱 I’m currently working on a Trading bot and Dating App.
 - 💞️ I’m looking to collaborate with anyone.
